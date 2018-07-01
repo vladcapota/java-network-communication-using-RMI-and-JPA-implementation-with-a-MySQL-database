@@ -39,7 +39,7 @@ The library application:
 
 - dto
 
-  > the Data Transer Object package contains a serializable version of the object that that allows the object to be 
+  > the Data Transfer Object package contains a serializable version of the object that that allows the object to be 
     transferred through a flux;
     
   > the classes placed in the ‘entities’ package of the server cannot reach the client because of the annotations that mark 
