@@ -61,5 +61,5 @@ The library application:
  
  - gui
  
-   > the  package contians the Graphical User Interface that clients initialise in order to define products and add them to 
+   > the  package contains the Graphical User Interface that clients initialise in order to define products and add them to 
      the common inventory;
